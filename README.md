@@ -7,6 +7,8 @@ It works with files generated from an application called SPOC linked with an ele
 
 This tool was developed for laboratory use in GliaPharm SA to facilitate signal inspection, electrode selection, spike and busrt activity detection on brain organoid.
 
+(In the utils folder, you’ll find an additional script that isn’t used by the main tool. I use it to generate graphs such as time-frequency plots and to display the signal both in full-band and low-frequency ranges.)
+
 FEATURES:
 
     File loading: open .h5 electrophysiology datasets.
