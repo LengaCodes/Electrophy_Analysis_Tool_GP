@@ -32,8 +32,8 @@ INSTALLATION
 
 SETUP
 
-    git clone https://github.com/your-username/electrophysiology-app.git
-    cd electrophysiology-app
+    git clone https://github.com/LengaCodes/Electrophy_Analysis_Tool_GP.git
+    cd Electrophy_Analysis_Tool_GP
     pip install -r requirements.txt
 
 USAGE
@@ -50,4 +50,5 @@ WORKFLOW
 
 CITATION
 
-    [Your Name], Electrophysiology Signal Analysis (2025), GitHub repository: https://github.com/your-username/electrophysiology-app
+    Loïc Lengacher, Electrophysiology Signal Analysis (2025), GitHub repository: https://github.com/LengaCodes/Electrophy_Analysis_Tool_GP
+
