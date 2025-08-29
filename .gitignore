@@ -1,0 +1,32 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build / packaging
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Jupyter / notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
+# Gitignore file 
